@@ -15,7 +15,9 @@
             </nav>
         </div>
         <div class="col-span-5 row-span-11 bg-gradient-to-tr from-[#1B1515] to-[#282828] bg-green-500 rounded-xl">
-
+            <div class="p-4 border-b border-amber-500">
+                <div class="bg-green-500 w-12 h-12 flex items-center justify-center rounded-3xl"> OO </div>
+            </div>
         </div>
         <div class="col-span-6 row-span-11 bg-gradient-to-tl from-[#1B1515] to-[#282828] bg-green-500 rounded-xl">
 
